@@ -19,6 +19,15 @@ body {
   min-height: 100vh;
 }
 
+a {
+  color: blue;
+  text-decoration: none;
+}
+
+a:visited {
+  color: blue;
+}
+
 h1, h2 {
   font-family: 'VT323', monospace;
   font-size: 3.2em;
